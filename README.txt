@@ -1,6 +1,3 @@
 "Hello, Git"
 Hello, buddy!
-hello
-Feature2_additional changes
-changes from master
-
+yoyoyo
