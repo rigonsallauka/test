@@ -1,3 +1,6 @@
 Adding some code here
+<<<<<<< HEAD
 Adding more code
+=======
+>>>>>>> v1.0_fixes
 "Fix1"
